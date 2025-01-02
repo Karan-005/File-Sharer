@@ -25,12 +25,23 @@ Before running the program, make sure you have the following Python libraries in
 You can install the required libraries via `pip`:
 
 ---
-## How to Run
-Run the Program:
 
-In the terminal, run the program by typing:
-```bash
-python file_sharer.py
+
+## How to Run
+Follow these steps to run the File-Sharer Program on your system:
+
+## 1. Download the Program
+Clone the repository or download the Python script file, for example, 'file_sharer.py', from the provided link.
+
+## 2. Install Required Libraries
+    Open the command prompt (Windows) or terminal (macOS/Linux).
+    Navigate to the folder where the script is saved.
+    Run the following command to install the required libraries:
+    pip install pyfiglet colorama qrcode
+
+
+
+
 
 
 
