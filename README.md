@@ -32,6 +32,9 @@ Follow these steps to run the File-Sharer Program on your system:
 
 ## 1. Download the Program
 Clone the repository or download the Python script file, for example, 'file_sharer.py', from the provided link.
+            
+             git clone https://github.com/Karan-005/File-Sharer.git
+- Copy the above code to your terminal..             
 
 ## 2. Install Required Libraries
 - Open the command prompt (Windows) or terminal (macOS/Linux).
