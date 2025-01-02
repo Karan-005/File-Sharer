@@ -3,13 +3,13 @@
 ## Overview
 The **File-Sharer** program allows you to share files over your local network using an HTTP server. The program generates a QR code that can be scanned by others to access the shared folder via a web browser. It's a simple and easy way to share files without using external cloud services.
 
-## Features
+## Features 🚀
 - Share files and folders over a local network.
 - Generate a QR code for easy access.
 - Simple and user-friendly interface using Tkinter.
 - View the shared folder's content in a web browser.
 
-## Requirements
+## Requirements 🔧
 
 Before running the program, make sure you have the following Python libraries installed:
 
@@ -27,7 +27,7 @@ You can install the required libraries via `pip`:
 ---
 
 
-## How to Run
+## How to Run 🖥️
 Follow these steps to run the File-Sharer Program on your system:
 
 ## 1. Download the Program
