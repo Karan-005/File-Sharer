@@ -25,5 +25,17 @@ Before running the program, make sure you have the following Python libraries in
 You can install the required libraries via `pip`:
 
 ```bash
-pip install pyfiglet colorama qrcode
+ pip install pyfiglet colorama qrcode
+
+## Run the Program:
+
+In the terminal, run the program by typing:
+bash
+Copy code
+python file_sharer.py
+
+
+
+
+
 
